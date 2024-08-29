@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 500px;
+    height: 400px;
+    background-color: rgb(224, 227, 227);
+    margin-left: 20%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.inp {
+    width: 230px;
+    height: 20px;
+    border-radius: 5px 1px;
+}
